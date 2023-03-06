@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+:root{
+    --font-color: ;
+    --font-size-overall: 1.1rem;
+    --color-overlay: rgba(0, 0, 0, 0.6);
+    ---color-overlay-left-panel: rgba(0, 0, 0, 0.6);
+    --font-size-temp: 4rem;
+    --font-size-city: 1.7rem;
+    --color-submit: rgba(210, 210, 210, 0.575);    
+}
