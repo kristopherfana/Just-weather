@@ -10,9 +10,6 @@
     
 }
 app-right-panel, app-left-panel{
-    border: 1px solid black;
     display: flex;
     margin: 0;
-    width: 50vw;
-    padding: 20px;
 }

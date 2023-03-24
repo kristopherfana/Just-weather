@@ -1,5 +1,9 @@
+:host{
+    width: 60vw;
+}
 app-muted-information, app-time, app-main-information{
     display: flex;
     justify-content: center;
-    border-bottom: 1px solid black;
+    padding: 20px;
+    
 }
